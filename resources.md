@@ -15,6 +15,14 @@
 - python-can / cantools 공식 문서
 - ISO 26262 소개: 국내 기술 블로그/유튜브 개요 강의로 시작 (원문 규격은 유료라 개요만)
 
+## 차량보안 + 임베디드 (동아리 연계)
+- ISO/SAE 21434 개요 자료 — TARA 개념부터 (원문 유료, 개요 강의/블로그로)
+- The Car Hacker's Handbook (무료 공개, opengarages.org) — 차량 네트워크 구조·진단(UDS)·보안 개념의 표준 입문서
+- ICSim (GitHub: zombieCraig/ICSim) — 가상 계기판+CAN 버스로 스니핑/인젝션 실습 (리눅스 vcan)
+- can-utils (candump, cansend) — 리눅스 CAN 표준 도구
+- UDS(ISO 14229) 진단 프로토콜 개요 — 제어기 검증 실무에서 매일 쓰는 프로토콜
+- STM32 입문: Nucleo 보드 + HAL로 CAN 송수신 프로젝트 (동아리 장비 활용)
+
 ## 툴 (방학/3학년 대비)
 - MATLAB/Simulink Onramp — 학교 라이선스 확인, 무료 온라인 강의
 - CARLA 시뮬레이터 — 캡스톤 확장용 (GPU 필요)
